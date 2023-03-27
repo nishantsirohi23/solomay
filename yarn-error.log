@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/local/bin/node /usr/local/bin/yarn add firebase
+  /usr/local/bin/node /usr/local/bin/yarn add -D gh-pages
 
 PATH: 
   /Library/Frameworks/Python.framework/Versions/3.9/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Users/nishantsirohi/opt/anaconda3/bin:/Users/nishantsirohi/opt/anaconda3/condabin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/Users/nishantsirohi/devlop/flutter/bin:/Users/nishantsirohi/devlop/flutter/bin
