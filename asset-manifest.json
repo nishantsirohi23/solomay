@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/solomay/static/css/main.eff20261.css",
+    "main.js": "/solomay/static/js/main.c6e4c4d5.js",
+    "static/js/787.4f6c8ef9.chunk.js": "/solomay/static/js/787.4f6c8ef9.chunk.js",
+    "static/media/restaurant_back.jpg": "/solomay/static/media/restaurant_back.2dd1c0eb6afaf2736818.jpg",
+    "static/media/about-img.jpg": "/solomay/static/media/about-img.80de901c7ec2007cb298.jpg",
+    "static/media/why-us-2.jpg": "/solomay/static/media/why-us-2.847b7a386c3a2c106377.jpg",
+    "static/media/why-us-1.jpg": "/solomay/static/media/why-us-1.5ee453fcaa6cbd7c88a5.jpg",
+    "static/media/why-us-3.jpg": "/solomay/static/media/why-us-3.ea8b5f46dd8fe14413c2.jpg",
+    "index.html": "/solomay/index.html",
+    "main.eff20261.css.map": "/solomay/static/css/main.eff20261.css.map",
+    "main.c6e4c4d5.js.map": "/solomay/static/js/main.c6e4c4d5.js.map",
+    "787.4f6c8ef9.chunk.js.map": "/solomay/static/js/787.4f6c8ef9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eff20261.css",
+    "static/js/main.c6e4c4d5.js"
+  ]
+}
