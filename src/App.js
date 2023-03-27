@@ -24,7 +24,7 @@ function App() {
 
 <BrowserRouter>
 <Routes>
-<Route path='/' element={ <NavBarExample /> }>
+<Route basename='/login' path='/' element={ <NavBarExample /> }>
     <Route path='/login' element={ <HomePage /> } />
     <Route index path='/restaurants' element={ <RestaurantsList /> } />
     <Route path="/restaurants/:id" element={<Restaurant user={user}  />} />
